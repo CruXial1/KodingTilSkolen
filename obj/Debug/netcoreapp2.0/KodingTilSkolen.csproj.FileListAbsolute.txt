@@ -1,0 +1,11 @@
+C:\Users\kvbv2803\Documents\VS Projects\KodingTilSkolen\KodingTilSkolen\bin\Debug\netcoreapp2.0\KodingTilSkolen.deps.json
+C:\Users\kvbv2803\Documents\VS Projects\KodingTilSkolen\KodingTilSkolen\bin\Debug\netcoreapp2.0\KodingTilSkolen.runtimeconfig.json
+C:\Users\kvbv2803\Documents\VS Projects\KodingTilSkolen\KodingTilSkolen\bin\Debug\netcoreapp2.0\KodingTilSkolen.runtimeconfig.dev.json
+C:\Users\kvbv2803\Documents\VS Projects\KodingTilSkolen\KodingTilSkolen\bin\Debug\netcoreapp2.0\KodingTilSkolen.dll
+C:\Users\kvbv2803\Documents\VS Projects\KodingTilSkolen\KodingTilSkolen\bin\Debug\netcoreapp2.0\KodingTilSkolen.pdb
+C:\Users\kvbv2803\Documents\VS Projects\KodingTilSkolen\KodingTilSkolen\obj\Debug\netcoreapp2.0\KodingTilSkolen.csprojResolveAssemblyReference.cache
+C:\Users\kvbv2803\Documents\VS Projects\KodingTilSkolen\KodingTilSkolen\obj\Debug\netcoreapp2.0\KodingTilSkolen.csproj.CoreCompileInputs.cache
+C:\Users\kvbv2803\Documents\VS Projects\KodingTilSkolen\KodingTilSkolen\obj\Debug\netcoreapp2.0\KodingTilSkolen.AssemblyInfoInputs.cache
+C:\Users\kvbv2803\Documents\VS Projects\KodingTilSkolen\KodingTilSkolen\obj\Debug\netcoreapp2.0\KodingTilSkolen.AssemblyInfo.cs
+C:\Users\kvbv2803\Documents\VS Projects\KodingTilSkolen\KodingTilSkolen\obj\Debug\netcoreapp2.0\KodingTilSkolen.dll
+C:\Users\kvbv2803\Documents\VS Projects\KodingTilSkolen\KodingTilSkolen\obj\Debug\netcoreapp2.0\KodingTilSkolen.pdb
